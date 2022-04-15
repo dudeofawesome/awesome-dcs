@@ -37,7 +37,7 @@ Awesome list of DCS: World resources
 
     **Make sure to read the installation / setup steps!**
 
--   [JAS-39-C](https://github.com/whisky-actual/Community-JAS-39-C)
+-   [JAS-39-C Gripen](https://github.com/whisky-actual/Community-JAS-39-C)
 -   [T-45 Goshawk by VNAO](https://forums.eagle.ru/topic/203816-vnao-t-45-goshawk/)
 
 #### Utilities 🔧
