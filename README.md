@@ -118,6 +118,8 @@ Awesome list of DCS: World resources
 
     CAS mission inspired by early 2000's & contemporary Afghanistan conflict. Includes randomized tasking, lots of triggers & custom voice lines.
 
+    -   A-10A
+
 -   [Operation Clear Field](https://www.digitalcombatsimulator.com/en/files/3306039/)
     ![solo](/assets/account.svg)
     ![2 player](/assets/account-multiple.svg)
