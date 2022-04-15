@@ -29,6 +29,7 @@ Awesome list of DCS: World resources
     **Make sure to read the installation / setup steps!**
 
 -   [A-6E Intruder](https://github.com/CorsairCat/DCS-A-6E-Intruder)
+-   [Bell 47](https://www.digitalcombatsimulator.com/en/files/3317105/)
 -   [C-130J-30 Super Hercules by Anubis](https://forums.eagle.ru/topic/252075-dcs-super-hercules-mod-by-anubis/)
 
     **Make sure to read the installation steps!**
