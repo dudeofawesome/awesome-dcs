@@ -60,6 +60,10 @@ Awesome list of DCS: World resources
 
 -   [DCS Scratchpad](https://github.com/rkusa/dcs-scratchpad)
 -   [Tacview](https://www.tacview.net/)
+-   [Project Tauntaun](https://github.com/UOAF/project-tauntaun)
+-   [Joystick Diagrams](https://joystick-diagrams.com/)
+
+    Generates control layout diagrams based on your DCS mappings
 
 #### Mission Scripts
 
