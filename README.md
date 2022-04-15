@@ -75,7 +75,10 @@ Awesome list of DCS: World resources
 
 ##### Missions
 
--   [DCS Liberation](https://github.com/dcs-liberation/dcs_liberation) ![solo](/assets/account.svg) ![2 player](/assets/account-multiple.svg) ![Co-Op Many](/assets/account-group.svg)
+-   [DCS Liberation](https://github.com/dcs-liberation/dcs_liberation)
+    ![solo](/assets/account.svg)
+    ![2 player](/assets/account-multiple.svg)
+    ![Co-Op Many](/assets/account-group.svg)
 
     A dynamic campaign, utilizing an external mission editor to build complex campaigns that span multiple missions.
 
@@ -85,17 +88,23 @@ Awesome list of DCS: World resources
 
     -   F-15C
 
--   [Operation Integral Resolve](https://www.digitalcombatsimulator.com/en/files/3309469/) ![solo](/assets/account.svg)
+-   [Operation Integral Resolve](https://www.digitalcombatsimulator.com/en/files/3309469/)
+    ![solo](/assets/account.svg)
 
     A highly randomized campaign consisting of CAS, Strike, SEAD, & Deep Strike missions
 
     -   F/A-18C
 
--   [Operation Bactria](https://www.digitalcombatsimulator.com/en/files/201633/) ![2 player](/assets/account-multiple.svg) ![Co-Op Many](/assets/account-group.svg)
+-   [Operation Bactria](https://www.digitalcombatsimulator.com/en/files/201633/)
+    ![2 player](/assets/account-multiple.svg)
+    ![Co-Op Many](/assets/account-group.svg)
 
     CAS mission inspired by early 2000's & contemporary Afghanistan conflict. Includes randomized tasking, lots of triggers & custom voice lines.
 
--   [Operation Clear Field](https://www.digitalcombatsimulator.com/en/files/3306039/) ![solo](/assets/account.svg) ![2 player](/assets/account-multiple.svg) ![Co-Op Many](/assets/account-group.svg)
+-   [Operation Clear Field](https://www.digitalcombatsimulator.com/en/files/3306039/)
+    ![solo](/assets/account.svg)
+    ![2 player](/assets/account-multiple.svg)
+    ![Co-Op Many](/assets/account-group.svg)
 
     Sandbox campaign loosely based on Russo-Gregorian war of 2008.
 
@@ -107,10 +116,3 @@ Awesome list of DCS: World resources
     -   [Checklists, Quickstart, Ordnance](https://www.digitalcombatsimulator.com/en/files/3314313/)
     -   [CASE I/II/III, Overhead Break, LSO Grades](https://www.digitalcombatsimulator.com/en/files/3314314/)
     -   [RWR Threats, HARM Radar Codes](https://www.digitalcombatsimulator.com/en/files/3314315/)
-
-<style>
-    img {
-        height: 1.2em;
-        vertical-align: middle;
-    }
-</style>
