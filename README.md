@@ -123,6 +123,7 @@ Awesome list of DCS: World resources
 ### Kneeboards 📝
 
 -   F/A-18C
+    -   [DudeOfAwesome's Beginner's Kneeboard](https://github.com/dudeofawesome/dcs-kneeboards)
     -   [Checklists, Quickstart, Ordnance](https://www.digitalcombatsimulator.com/en/files/3314313/)
     -   [CASE I/II/III, Overhead Break, LSO Grades](https://www.digitalcombatsimulator.com/en/files/3314314/)
     -   [RWR Threats, HARM Radar Codes](https://www.digitalcombatsimulator.com/en/files/3314315/)
