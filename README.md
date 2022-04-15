@@ -96,6 +96,13 @@ Awesome list of DCS: World resources
 
     A mission generator and gameplay script focused on helicopter operations. Features a dynamic ground war.
 
+-   [Briefing Room](https://github.com/akaAgar/briefing-room-for-dcs)
+    ![solo](/assets/account.svg)
+    ![2 player](/assets/account-multiple.svg)
+    ![Co-Op Many](/assets/account-group.svg)
+
+    Fast mission generator intended to be a replacement of DCS's fast mission generator.
+
 -   [An Eye for an Eye](https://forum.dcs.world/topic/117887-an-eye-for-an-eye-v09-single-player2-player-for-f-15c)
     ![solo](/assets/account.svg)
     ![2 player](/assets/account-multiple.svg)
