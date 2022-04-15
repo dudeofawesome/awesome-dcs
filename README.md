@@ -16,7 +16,6 @@ Awesome list of DCS: World resources
 ### Guides 📄
 
 -   [Chuck's Guides](https://www.mudspike.com/chucks-guides-dcs/)
--   [Chuck's Guides](https://www.mudspike.com/chucks-guides-dcs/)
 -   [Leap Motion](https://forum.dcs.world/topic/285166-my-procedure-for-leap-motion-working-perfectly-in-dcs/#comment-4820137)
 
 ### Mods 🧩
