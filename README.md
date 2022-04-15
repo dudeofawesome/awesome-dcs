@@ -86,6 +86,13 @@ Awesome list of DCS: World resources
     A dynamic campaign, utilizing an external mission editor to build complex campaigns that span multiple missions.
 
 -   [An Eye for an Eye](https://forum.dcs.world/topic/117887-an-eye-for-an-eye-v09-single-player2-player-for-f-15c) ![solo](/assets/account.svg) ![2 player](/assets/account-multiple.svg)
+-   [Rotor Ops](https://dcs-helicopters.com/)
+    ![solo](/assets/account.svg)
+    ![2 player](/assets/account-multiple.svg)
+    ![Co-Op Many](/assets/account-group.svg)
+
+    A mission generator and gameplay script focused on helicopter operations. Features a dynamic ground war.
+
 
     Story-driven campaign intended for players of all skill levels.
 
