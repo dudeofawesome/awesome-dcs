@@ -33,7 +33,7 @@ Awesome list of DCS: World resources
 
     **Make sure to read the installation steps!**
 
--   [F-22A by GrinnelliDesigns](https://fsoutlet.com/f22/)
+-   [F-22A by GrinnelliDesigns](https://grinnellidesigns.com/f22/)
 
     **Make sure to read the installation / setup steps!**
 
