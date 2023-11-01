@@ -37,6 +37,8 @@ Awesome list of DCS: World resources
 
     **Make sure to read the installation / setup steps!**
 
+    There are some oddities about keybinds with this one.
+
 -   [JAS-39-C Gripen](https://github.com/whisky-actual/Community-JAS-39-C)
 -   [T-45 Goshawk by VNAO](https://forums.eagle.ru/topic/203816-vnao-t-45-goshawk/)
 -   [UH-60L Black Hawk](https://github.com/Kinkkujuustovoileipa/uh-60l)
